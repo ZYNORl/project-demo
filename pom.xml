@@ -37,6 +37,7 @@
     </properties>
     <modules>
         <module>kafkaDemo</module>
+        <module>gatewayDemo</module>
     </modules>
     <dependencyManagement>
         <dependencies>
